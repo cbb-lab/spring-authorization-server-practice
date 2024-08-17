@@ -1,1 +1,1 @@
-# Authorization-server# spring-authorization-server-practice
+# spring-authorization-server-practice
